@@ -64,7 +64,7 @@ During my time at the **Cardiology AI Lab at Sheba – Tel Hashomer Medical Cent
 
 📧 eli72fik@gmail.com  
 🔗 [GitHub Profile](https://github.com/elishevaTufik)
-📞058-3237567
+📞 058-3237567
 ---
 
 > “Code that saves lives” – that's the kind of impact I aim for.
