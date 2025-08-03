@@ -66,6 +66,7 @@ During my time at the **Cardiology AI Lab at Sheba – Tel Hashomer Medical Cent
 
 📧 eli72fik@gmail.com  
 🔗 [GitHub Profile](https://github.com/elishevaTufik)
+📄 [Download my CV](./Elisheva Tufik.pdf)
 
 ---
 
