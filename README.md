@@ -60,13 +60,16 @@ During my time at the **Cardiology AI Lab at Sheba – Tel Hashomer Medical Cent
 
 ---
 
+---
+
 ## 📫 Let’s Connect
 
-📞 058-3237567
+- 📞 **Phone:** 058-3237567  
+- 📧 **Email:** eli72fik@gmail.com  
+- 💻 **GitHub:** [github.com/elishevaTufik](https://github.com/elishevaTufik)  
+- 📄 **CV:** [Download my CV](./Elisheva%20Tufik.pdf)
 
-📧 eli72fik@gmail.com  
-🔗 [GitHub Profile](https://github.com/elishevaTufik)
-📄 [Download my CV](./Elisheva Tufik.pdf)
+---
 
 ---
 
