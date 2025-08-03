@@ -18,7 +18,7 @@ Currently, I'm leveraging my experience in AI and full-stack development to buil
 
 During my time at the **Cardiology AI Lab at Sheba – Tel Hashomer Medical Center (2024–2025)**, I developed an end-to-end deep learning model in Python to **detect pacemakers from ECG signals**.
 
-This project was selected for presentation at the **72nd Annual Conference of the Israel Heart Society** (May 2025), showcasing its medical relevance and technological innovation.
+**I presented this project at the 72nd Annual Conference of the Israel Heart Society in May 2025.**
 
 ---
 
@@ -64,7 +64,7 @@ This project was selected for presentation at the **72nd Annual Conference of th
 
 📧 eli72fik@gmail.com  
 🔗 [GitHub Profile](https://github.com/elishevaTufik)
-
+📞058-3237567
 ---
 
 > “Code that saves lives” – that's the kind of impact I aim for.
