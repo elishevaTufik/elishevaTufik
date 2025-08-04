@@ -60,8 +60,6 @@ During my time at the **Cardiology AI Lab at Sheba – Tel Hashomer Medical Cent
 
 ---
 
----
-
 ## 📫 Let’s Connect
 
 - 📞 **Phone:** 058-3237567  
@@ -71,6 +69,4 @@ During my time at the **Cardiology AI Lab at Sheba – Tel Hashomer Medical Cent
 
 ---
 
----
-
-> “Code that saves lives” – that's the kind of impact I aim for.
+> "The code you write today is the story you'll read tomorrow."
