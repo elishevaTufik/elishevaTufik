@@ -41,7 +41,7 @@ During my time at the **Cardiology AI Lab at Sheba – Tel Hashomer Medical Cent
 
 ---
 
-## 🧰 Tech Stack
+## 🧰 Skills
 
 **Languages:** Python, JavaScript, C#, Java, SQL  
 **Frameworks:** .NET Core, React, Node.js, ASP.NET MVC  
