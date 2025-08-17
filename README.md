@@ -20,20 +20,7 @@ During my time at the **Cardiology AI Lab at Sheba – Tel Hashomer Medical Cent
 
 ### I presented this project at the 72nd Annual Conference of the Israel Heart Society in May 2025.
 
----
-
-## 🌐 Projects
-
-### 🛍️ Online Store Platform
-- Designed & implemented a shopping website with full-stack technologies  
-- Server: `Node.js`, Client: `React`, Database: `MongoDB`
-
-### 🧾 E-Commerce Web API
-- Built RESTful services using `.NET Core` and `SQL Server`  
-- Used: `ASP.NET MVC`, `DTO`, `Dependency Injection`, `ADO.NET`
-
-### 📦 CLI File Bundler Tool
-- Developed a robust packaging tool in `C#` with support for command-line arguments, logging, and error handling
+[>>View project](https://github.com/elishevaTufik/DL_Pacemakers_ECG)  
 
 ---
 
