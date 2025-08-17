@@ -12,7 +12,7 @@ Currently, I'm leveraging my experience in AI and full-stack development to buil
 
 ---
 
-## 🏥 | AI model Development |  ARC Center, Sheba
+## 🏥 AI model Development |  ARC Center, Sheba
 
 **Pacemaker Detection from ECG using Deep Learning**
 
