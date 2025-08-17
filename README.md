@@ -12,21 +12,17 @@ Currently, I'm leveraging my experience in AI and full-stack development to buil
 
 ---
 
-## 🏥 AI in Healthcare – Project at Sheba Medical Center
+## 🏥 | AI model Development |  ARC Center, Sheba
 
 **Pacemaker Detection from ECG using Deep Learning**
 
-During my time at the **Cardiology AI Lab at Sheba – Tel Hashomer Medical Center (2024–2025)**, I developed an end-to-end deep learning model in Python to **detect pacemakers from ECG signals**.
+During my time at the **Cardiology AI Lab at Sheba – Tel Hashomer Medical Center (2024–2025)**, I developed a deep learning model in Python to **detect pacemakers from ECG signals**.
 
 ### I presented this project at the 72nd Annual Conference of the Israel Heart Society in May 2025.
 
 ---
 
 ## 🌐 Projects
-
-### 🔒 LLM-Based Content Filtering Service
-- Built a compliance and risk analysis system to detect policy-violating content
-- Server: `Node.js`, Client: `React`, `TypeScript`
 
 ### 🛍️ Online Store Platform
 - Designed & implemented a shopping website with full-stack technologies  
@@ -47,16 +43,7 @@ During my time at the **Cardiology AI Lab at Sheba – Tel Hashomer Medical Cent
 **Frameworks:** .NET Core, React, Node.js, ASP.NET MVC  
 **AI & Data:** TensorFlow, PyTorch, Scikit-learn, Pandas, NumPy  
 **Databases:** SQL Server, MongoDB  
-**Tools:** Git, GitHub, CLI, REST APIs  
 **Other:** OOP, Design Patterns, ADO.NET, Imbalanced-learn, Cloud Computing (AWS)
-
----
-
-## 📚 Education & Excellence
-
-🎓 **Software Engineering (2022–2024)** – Certified by the Israeli Ministry of Labor  
-🏅 **Ultra Code AI Excellence Program** – Kamatech  
-📊 Background in Accounting, Algorithms, Graph Theory, Machine Learning & more  
 
 ---
 
