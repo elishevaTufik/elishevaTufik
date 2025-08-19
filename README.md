@@ -1,11 +1,10 @@
-# 👋 Hi, I'm Elisheva :)
+# Hi, I'm Elisheva :)
 
-🎓 Software Developer | 💡 Passionate about AI, Innovation & Smart Design | 🎨  
-I love building meaningful tech with a creative edge – where logic meets imagination.
+🎓 Software Developer | 💡 Passionate about AI, Innovation & Smart Design | 🎨 I love building meaningful tech with a creative edge – where logic meets imagination.
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I'm a creative and dedicated **software developer** with strong technical abilities and a deep love for **problem-solving**.  
 I thrive under pressure, pick up new skills quickly, and enjoy working on impactful projects.
@@ -43,7 +42,6 @@ During my time at the **Cardiology AI Lab at Sheba – Tel Hashomer Medical Cent
 
 - 📞 **Phone:** 058-3237567  
 - 📧 **Email:** eli72fik@gmail.com  
-- 💻 **GitHub:** [github.com/elishevaTufik](https://github.com/elishevaTufik)  
 - 📄 **CV:** [Download my CV](https://github.com/elishevaTufik/elishevaTufik/blob/main/Elisheva%20Tufik.pdf)
 
 ---
