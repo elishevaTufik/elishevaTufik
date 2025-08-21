@@ -1,4 +1,4 @@
-# Hi, I'm Elisheva :)
+# Hi, I'm Elisheva 🤗
 
 🎓 Software Developer | 💡 Passionate about AI, Innovation & Smart Design | 🎨 I love building meaningful tech with a creative edge – where logic meets imagination.
 
