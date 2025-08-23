@@ -31,6 +31,7 @@ The model achieved:
 
 [>> View project](https://github.com/elishevaTufik/DL_Pacemakers_ECG)  
 <img width="1475" height="823" alt="image" src="https://github.com/user-attachments/assets/7ab22c03-15cb-4fbc-a154-96a330c35671" />
+<img src="https://github.com/user-attachments/assets/7ab22c03-15cb-4fbc-a154-96a330c35671" width="400" />
 
 ---
 
