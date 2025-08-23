@@ -23,7 +23,7 @@ I thrive under pressure, pick up new skills quickly, and enjoy working on impact
 During my time at the **Cardiology AI Lab at Sheba – Tel Hashomer Medical Center (2024–2025)**, I developed a deep learning model in Python to **detect pacemakers from ECG signals**.
 
 ### 📊 Key Results
-the model achieved:
+The model achieved:
 - **86% accuracy** on the PhysioNet dataset  
 - **73% accuracy** on Sheba’s dataset  
 
