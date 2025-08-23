@@ -22,9 +22,15 @@ I thrive under pressure, pick up new skills quickly, and enjoy working on impact
 
 During my time at the **Cardiology AI Lab at Sheba – Tel Hashomer Medical Center (2024–2025)**, I developed a deep learning model in Python to **detect pacemakers from ECG signals**.
 
+### 📊 Key Results
+the model achieved:
+- **86% accuracy** on the PhysioNet dataset  
+- **73% accuracy** on Sheba’s dataset  
+
 ### 🏆 I presented this project at the 72nd Annual Conference of the Israel Heart Society in May 2025.
 
 [>> View project](https://github.com/elishevaTufik/DL_Pacemakers_ECG)  
+<img width="1475" height="823" alt="image" src="https://github.com/user-attachments/assets/7ab22c03-15cb-4fbc-a154-96a330c35671" />
 
 ---
 
@@ -40,7 +46,6 @@ During my time at the **Cardiology AI Lab at Sheba – Tel Hashomer Medical Cent
 
 ## 📫 Let’s Connect
 
-- 📞 **Phone:** 058-3237567  
 - 📧 **Email:** eli72fik@gmail.com  
 - 📄 **CV:** [Download my CV](https://github.com/elishevaTufik/elishevaTufik/blob/main/Elisheva%20Tufik.pdf)
 
