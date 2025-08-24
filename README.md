@@ -30,8 +30,7 @@ The model achieved:
 ### 🏆 I presented this project at the 72nd Annual Conference of the Israel Heart Society in May 2025.
 
 [>> View project](https://github.com/elishevaTufik/DL_Pacemakers_ECG)  
-<img width="1475" height="823" alt="image" src="https://github.com/user-attachments/assets/7ab22c03-15cb-4fbc-a154-96a330c35671" />
-<img src="https://github.com/user-attachments/assets/7ab22c03-15cb-4fbc-a154-96a330c35671" width="400" />
+<img src="https://github.com/user-attachments/assets/7ab22c03-15cb-4fbc-a154-96a330c35671" width="500" />
 
 ---
 
